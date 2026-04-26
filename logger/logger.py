@@ -1,12 +1,4 @@
-"""
-File:        frogger.py
-Author:      Sakar Ojha
-Date:        11/19/2024
-Section:     71
-E-mail:      o66@umbc.edu
-Description: A game of frogger without the logs part
-Secret Word: Pusillanimous
-"""
+
 import os
 
 root, directories, files = next(os.walk('.'))

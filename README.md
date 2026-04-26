@@ -1,4 +1,4 @@
-# Frogger and Logger
+# Frogger
 
 ## Objective
 - To avoid the vehicles or river and reach the bottom safely.
